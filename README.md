@@ -51,7 +51,7 @@ $ cd FINAPI
 ### Requisitos:
 
 - [x] Deve ser possivel criar uma conta
-- [ ] Deve ser possivel buscar o extrato bancário do cliente
+- [x] Deve ser possivel buscar o extrato bancário do cliente
 - [ ] Deve ser possivel realizar um depósito
 - [ ] Deve ser possivel realizar um saque
 - [ ] Deve ser possivel busca o extrato bancário do cliente por data
