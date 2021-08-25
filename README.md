@@ -63,7 +63,7 @@ $ cd FINAPI
 ## Regras de negócio
 
 - [x] Não deve ser possivel cadastrar uma conta com CPF já existente
-- [ ] Não deve ser possivel fazer depósito em uma conta não existente
+- [x] Não deve ser possivel fazer depósito em uma conta não existente
 - [ ] Não deve ser possivel buscar extrato em uma conta não existente
 - [ ] Não deve ser possivel fazer saque em uma conta não existente
 - [ ] Não deve ser possivel excluir uma conta não existente
