@@ -57,8 +57,8 @@ $ cd FINAPI
 - [x] Deve ser possivel busca o extrato bancário do cliente por data
 - [x] Deve ser possivel atualizar dados da conta do cliente
 - [x] Deve ser possivel obter dados da conta do cliente
-- [ ] Deve ser possivel deletar uma conta
-- [ ] Deve ser possivel retornar o balance
+- [x] Deve ser possivel deletar uma conta
+- [x] Deve ser possivel retornar o balance
 
 ## Regras de negócio
 
@@ -67,5 +67,5 @@ $ cd FINAPI
 - [x] Não deve ser possivel fazer depósito em uma conta não existente
 - [x] Não deve ser possivel fazer saque em uma conta não existente
 - [x] Não deve ser possivel fazer saque quando o saldo for insuficiente
-- [ ] Não deve ser possivel excluir uma conta não existente
-- [ ] Não deve ser possivel buscar o balance em uma conta não existente
+- [x] Não deve ser possivel excluir uma conta não existente
+- [x] Não deve ser possivel buscar o balance em uma conta não existente
